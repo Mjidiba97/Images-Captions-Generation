@@ -1,6 +1,6 @@
 # Image Captioning Using Deep Learning algorithms
 ### By Ahmed Amine MAJDOUBI
-
+---
 In this project we will be tackeling the problem of generating image captions. So we will be mainly using  image and text processing algorithms. This is a very interesting area of deep learning where humans excel at, which is compressing huge amount of images to just a few descriptive phrases. In this project, we will be using the ***'flickr30k_images'*** dataset along with a csv file containing reference captions.
 
 We will start by performing a descriptive analysis of our data (both the images and the caption phrases), then we will proceed by writting out the problem we will be solving. The next step is to create our own algorithm to generate captions, and train it on our training dataset. Then we will define a specific accuracy metric to evaluate our model on the test dataset. Finaly we will perform a qualitative analysis of our results, and end the notebook with a conclusion on our work.
