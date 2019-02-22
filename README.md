@@ -6,7 +6,7 @@ We will start by performing a descriptive analysis of our data (both the images 
 
 ---
 
-**Important Note:** If you want to run this notebook, you should do it using **Google Collaboration** service. Also you need to have a directory in your drive named **'Features'*** to store the features that we will be creating, and another one inside it named **'models' **to store the deep learning models we will create. You also need to have a folder named** 'flickr30k_images' **that contains the 'results.csv' file and another folder with the name **'flickr30k_images'** that contains all the **flickr30k** images. Here is the structure of the files in my drive:
+**Important Note:** If you want to run this notebook, you should do it using **Google Collaboration** service. Also you need to have a directory in your drive named **'Features'** to store the features that we will be creating, and another one inside it named **'models'** to store the deep learning models we will create. You also need to have a folder named **'flickr30k_images'** that contains the 'results.csv' file and another folder with the name **'flickr30k_images'** that contains all the **flickr30k** images. Here is the structure of the files in my drive:
 
 
 *  ***/content/drive***
